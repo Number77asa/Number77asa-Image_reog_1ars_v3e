@@ -1,0 +1,6 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react","es2015","react","stage-0","babel-preset-env"],
+    "plugins":["transform-class-properties"] 
+}
+//Why value transform-class-properties does not match exactly the package.json name?//
+
