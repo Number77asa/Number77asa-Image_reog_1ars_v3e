@@ -51,7 +51,7 @@
     "loader": "^2.1.1",
     "url-loader": "^3.0.0",
     "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "scripts": {
     "dev": "webpack --mode development --watch ./leadmanager/frontend/src/index.js --output ./leadmanager/frontend/static/frontend/main.js",
